@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "338654982832",
+    "project_id": "kflix-aa130",
+    "storage_bucket": "kflix-aa130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338654982832:android:c0e42ea5f3c75f2a45c175",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338654982832-6a824q6fgv16vuturqg9mhu3smnk7ek8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone",
+            "certificate_hash": "24259ba73f131d84db582f4cc6545405316bb3fd"
+          }
+        },
+        {
+          "client_id": "338654982832-i09jqeo4n30ogvkalu4et8jj843shfst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6bL-ohvXr6-FGz_AtqM1bRRFXK_ufqDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338654982832-i09jqeo4n30ogvkalu4et8jj843shfst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
