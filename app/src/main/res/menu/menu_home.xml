@@ -3,49 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.capstone.Home.HomeActivity">
 
-    <item
-        android:id="@+id/push9"
-        android:orderInCategory="100"
-        android:title=""
-        android:icon="@drawable/k"
-        app:showAsAction="always" />
-
-    <item
-        android:id="@+id/push2"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
-
-
-    <item
-        android:id="@+id/push"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
-
-    <item
-        android:id="@+id/push3"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
-
-    <item
-        android:id="@+id/push4"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
-
-    <item
-        android:id="@+id/push5"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
-
-    <item
-        android:id="@+id/push10"
-        android:orderInCategory="100"
-        android:title=""
-        app:showAsAction="always" />
+<!--    <item-->
+<!--        android:id="@+id/push9"-->
+<!--        android:orderInCategory="100"-->
+<!--        android:title=""-->
+<!--        android:icon="@drawable/k"-->
+<!--        app:showAsAction="always" />-->
 
     <item
         android:id="@+id/myList"
